@@ -1,0 +1,16 @@
+git init
+git add .
+git commit -m "ddd"
+git remote add origin xxxxxx
+git push -u origin master
+user name
+password
+
+
+git clone xxxxx
+git status
+git rm -r folder
+git commit -m "ddd"
+git push
+user name
+password
