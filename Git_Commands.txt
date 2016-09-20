@@ -6,6 +6,7 @@ git push -u origin master
 user name
 password
 
+if exsit fatal: remote origin already , try git remote rm origin
 
 git clone xxxxx
 git status
